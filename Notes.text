@@ -1,3 +1,12 @@
 TypeScript adds extra features onto Javascript (mainly static typing)
 Translates back to regular Javascript
 Made by Microsoft
+
+
+Benefits of TypeScript
+
+Less bugs in our code
+More readable and maintainable code
+Catch errors in editor rather than runtime
+High demand for TypeScript developers in the market
+
