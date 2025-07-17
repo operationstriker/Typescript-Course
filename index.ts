@@ -1,6 +1,2 @@
-let age = 2 // need to mention type of value
-
-
-
-
+let age: number = 2 // need to mention type of value
 
