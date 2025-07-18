@@ -5,5 +5,5 @@ let lessonCompleted: boolean = true
 let x: any = false // any - any variable type
 
 
-// array of courses
-let courses: string
+// array of courses, array of strings
+let courses: string[] = []
