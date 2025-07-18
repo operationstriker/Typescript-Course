@@ -6,4 +6,4 @@ let x: any = false // any - any variable type
 
 
 // array of courses, array of strings
-let courses: string[] = []
+let courses: string[] = ["HTML", "CSS"] // only strings
