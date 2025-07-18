@@ -4,3 +4,6 @@ let course: string = "TypeScript Course" // cant be anything other than a string
 let lessonCompleted: boolean = true
 let x: any = false // any - any variable type
 
+
+// array of courses
+let courses: string
