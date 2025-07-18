@@ -2,6 +2,8 @@ TypeScript adds extra features onto Javascript (mainly static typing)
 Translates back to regular Javascript
 Made by Microsoft
 
+// Static Typing:  mentioning type before you declare
+
 
 Benefits of TypeScript
 
@@ -9,4 +11,13 @@ Less bugs in our code
 More readable and maintainable code
 Catch errors in editor rather than runtime
 High demand for TypeScript developers in the market
+
+let age: number = 2 // need to mention type of value
+
+// need to mention type of variable
+
+age = 4 // only set to num
+// error
+
+
 
