@@ -7,4 +7,5 @@ let x: any = false // any - any variable type
 
 // array of courses, array of strings
 let courses: string[] = ["HTML", "CSS"] // only strings
-let arr: any[] = [true, '123', ]
+let arr: any[] = [true, '123', 321]
+// each element was an array
