@@ -14,4 +14,7 @@ let stringArr: string[][] = [['a'], ['b']] // array of arrays
 
 let testing: boolean = true // what you add here goes to index.js
 
-//tuples
+//Tuples // arrays that store different types of elements but in a specific order
+
+
+
