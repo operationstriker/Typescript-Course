@@ -20,3 +20,7 @@ let t: [number, number, number]
 
 t = [7, 8, 9]
 
+let tuple: [number, boolean, string]
+
+tuple = [24, true, "F"]
+
