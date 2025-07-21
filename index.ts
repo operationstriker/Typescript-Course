@@ -16,5 +16,7 @@ let testing: boolean = true // what you add here goes to index.js
 
 //Tuples // arrays that store different types of elements but in a specific order
 
+let t: [number, number, number]
 
+t = [7, 8, 9]
 
