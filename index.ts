@@ -12,4 +12,4 @@ let arr: any[] = [true, '123', 321]
 let stringArr: string[][] = [['a'], ['b']] // array of arrays
 
 
-let testing: boolean = true
+let testing: boolean = true // what you add here goes to index.js
