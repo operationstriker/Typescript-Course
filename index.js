@@ -11,3 +11,5 @@ let arr = [true, '123', 321];
 let stringArr = [['a'], ['b']]; // array of arrays
 let testing = true; // what you add here goes to index.js
 //Tuples // arrays that store different types of elements but in a specific order
+let t;
+t = [7, 8, 9];
