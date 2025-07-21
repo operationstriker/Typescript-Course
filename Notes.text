@@ -19,5 +19,10 @@ let age: number = 2 // need to mention type of value
 age = 4 // only set to num
 // error
 
+// Convert TypeScript back to regular Javascript
+
+
+
+
 
 
