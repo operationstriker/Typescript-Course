@@ -26,7 +26,16 @@ tuple = [24, true, "F"]
 
 let person: [string, number] = ["f", 34]
 let people: [string, number][] = [ 
-
+    ["A", 4],
+    ["B", 43],
+    
 ]     
 
 // array of arrays
+
+
+// Objects
+
+let student = {
+    name: "B1"
+}
