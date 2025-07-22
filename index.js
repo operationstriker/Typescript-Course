@@ -15,3 +15,4 @@ let t;
 t = [7, 8, 9];
 let tuple;
 tuple = [24, true, "F"];
+let person = ["f", 34];
