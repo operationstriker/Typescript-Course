@@ -37,7 +37,11 @@ let people: [string, number][] = [
 // Objects
 
 let student: {
-    
+    name: string,
+    age: number,
+    isPassing: boolean
 } = {
-    name: "B1"
+    name: "B1",
+    age: 44,
+    isPassing: true
 }
