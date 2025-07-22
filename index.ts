@@ -36,6 +36,8 @@ let people: [string, number][] = [
 
 // Objects
 
-let student = {
+let student: {
+    
+} = {
     name: "B1"
 }
