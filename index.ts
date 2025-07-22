@@ -24,3 +24,4 @@ let tuple: [number, boolean, string]
 
 tuple = [24, true, "F"]
 
+let person: [string, number] = ["f", 34]
