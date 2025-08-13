@@ -51,7 +51,7 @@ let student: {
 
 
 
-let car = {
+let car: {
     year: number,
     vehiclebuild: string
 } = {
