@@ -45,3 +45,16 @@ let student: {
     age: 44,
     isPassing: true
 }
+
+
+
+
+
+
+let car = {
+    year: number,
+    vehiclebuild: string
+} = {
+    year: 202,
+    vehiclebuild: "Hatchback"
+}
