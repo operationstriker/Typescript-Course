@@ -60,3 +60,9 @@ type Student = {
     age: number,
     isPassing: boolean
 }
+
+let student1: Student = {
+    name: "ro",
+    age: 14, 
+    isPassing: true
+}
