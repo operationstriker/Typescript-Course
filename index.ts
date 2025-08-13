@@ -32,8 +32,6 @@ let people: [string, number][] = [
 ]     
 
 // array of arrays
-
-
 // Objects
 
 let student: {
@@ -45,10 +43,6 @@ let student: {
     age: 44,
     isPassing: true
 }
-
-
-
-
 
 
 let car: {
