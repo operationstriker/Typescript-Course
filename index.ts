@@ -52,3 +52,11 @@ let car: {
     year: 202,
     vehiclebuild: "Hatchback"
 }
+
+// Custom Types
+
+type Student = {
+    name: string,
+    age: number,
+    isPassing: boolean
+}
